@@ -1,0 +1,4 @@
+data/bbq/
+__pycache__/
+*.pyc
+.claude/
