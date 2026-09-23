@@ -4,8 +4,10 @@ A pilot study of TypeSafe's Jev decision model (`typesafe/jev-1.13`), run throug
 decisions endpoint on 22 and 23 September 2026. It started from one screenshot: asked who would
 make a better president, a man or a woman, Jev said "man" at 67%.
 
-The report, with interactive charts and a scenario explorer, is `report/jev-swap-test.html`.
-Open it in a browser. It needs no server.
+**Read the report: [https://claude.ai/artifact/DMMxb6Vi724gg9zLrYtQwD](https://claude.ai/artifact/DMMxb6Vi724gg9zLrYtQwD)**
+
+That is the published version, with interactive charts and a scenario explorer. The same page
+is in this repository as `report/jev-swap-test.html`; open it in a browser, no server needed.
 
 ## What we found
 
